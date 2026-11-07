@@ -1,56 +1,8 @@
-# Welcome to your Expo app 👋
+# Tic Tac Toe - Expo
+Fahri Qeizal Sabil - 41155050240020
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Deskripsi
+Tugas ini berfokus pada pengembangan aplikasi permainan klasik Tic Tac Toe (3x3) lintas platform menggunakan kerangka kerja Expo (React Native). Aplikasi ini dirancang untuk mengimplementasikan state management yang reaktif dalam menangani giliran pemain (simbol 'X' dan 'O'), logika deteksi kemenangan secara dinamis di setiap langkah (move), serta sistem skor dan tombol reset permainan untuk pengalaman pengguna (user experience) yang interaktif. Dengan memanfaatkan ekosistem Expo, aplikasi dapat dikembangkan dan diuji secara efisien tanpa konfigurasi native build yang rumit, menghasilkan antarmuka bersih yang responsif di berbagai ukuran layar perangkat seluler.
 
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **src/app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **example** directory and create a blank **src/app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Dokumentasi
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/7327c1f5-82aa-4f92-92f9-4355497e4b96" />
